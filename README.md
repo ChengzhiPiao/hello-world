@@ -1,2 +1,4 @@
 # hello-world
-example
+
+
+$h_{\theta}(x) = \theta^{T}x$
